@@ -59,6 +59,10 @@ Most outlines include:
 - Writing every section to the same length (rhythm needs variation)
 - Adding 3 CTAs to one video (one per video; viewers do one thing or zero things)
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT. Use, modify, sell videos made with these outlines, no attribution required.
